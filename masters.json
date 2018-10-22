@@ -1,0 +1,30 @@
+{
+	"type": "master",
+	"data": {
+		"1": 
+		{
+			"name": "Alisa",
+			"surname": "Pupkova",
+			"availability": 1
+		},
+		"2": 
+		{
+			"name": "Vova",
+			"surname": "Pupkin",
+			"availability": 0
+		},
+		"3": 
+		{
+			"name": "Vanya",
+			"surname": "Volkov",
+			"availability": 1
+		},
+		"4": 
+		{
+			"name": "Sasha",
+			"surname": "Volkov",
+			"availability": 1
+		}
+	}
+	
+}
